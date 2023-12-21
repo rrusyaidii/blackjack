@@ -10,7 +10,7 @@ let sumEl = document.querySelector("#sum-el")
 let cardsEl = document.querySelector("#cards-el")
 
 let player = {
-    name: "Rusyaidi",
+    name: "Player",
     chips: 145
 }
 
