@@ -6,5 +6,5 @@ The purpose of this project is to practice JavaScript, HTML, and CSS skills by c
 
 ## Screenshots
 
-![Screenshot 1](images/1.png)
-![Screenshot 2](images/2.png)
+![Screenshot 1](images/ss1.png)
+![Screenshot 2](images/ss2.png)
